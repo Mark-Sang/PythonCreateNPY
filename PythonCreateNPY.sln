@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCreateNPY", "PythonCreateNPY.pyproj", "{3526AA2E-3D1B-4067-BAD0-CAB393D66367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3526AA2E-3D1B-4067-BAD0-CAB393D66367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3526AA2E-3D1B-4067-BAD0-CAB393D66367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6BC8C44-3CC4-417B-A0B7-8783ADF4B61A}
+	EndGlobalSection
+EndGlobal
